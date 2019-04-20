@@ -12,6 +12,7 @@ echo
 echo
 python2 password.py
 echo
+clear
 figlet LUCIFER | lolcat
 echo
 echo $i"["$bi"x"$i"]"$me"───────────────────────────────────────────"$i"["$bi"x"$i"]"
