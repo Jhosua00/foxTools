@@ -39,7 +39,7 @@ def main():
 
 
                 else:
-                        print "\033[1;32mMaaf Masukkan password Anda salah... [?]\033[0             >
+                        print "\033[1;32mMaaf Masukkan password Anda salah... [?]\033[0:32m"
 
                         print "Silahkan segera log-in kembali...!!\n"
 
