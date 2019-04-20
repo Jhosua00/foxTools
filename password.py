@@ -1,9 +1,9 @@
 import os, sys
 
 print ("\033[1;32m|========================================|")
-print ("\033[31;1m|                  LOGIN                 |")
-print ("\033[34;1m|      SILAHKAN LOGIN TERLEBIH DAHULU    |")
-print ("\033[34;1m|          PM WA : 085275684845          |")
+print ("\033[1;32m|                  LOGIN                 |")
+print ("\033[1;32m|      SILAHKAN LOGIN TERLEBIH DAHULU    |")
+print ("\033[1;32m|          PM WA : 085275684845          |")
 print ("\033[1;32m|========================================|")
 
 username = 'Lucifer'
