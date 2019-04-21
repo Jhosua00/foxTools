@@ -79,6 +79,8 @@ echo $cy"25. Hack CCTV"
 echo $cy"=================================================="
 echo $me"26. Webdav (Buat Deface)"
 echo $me"=================================================="
+echo $i"27. SpamCall (NEW)
+echo $i"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -331,6 +333,14 @@ clear
 git clone https://github.com/ClayHackerTeam/webdav
 cd webdav
 sh webdav.sh
+fi
+
+if [ $pil = 27 ]
+then
+clear
+git clone https://github.com/Amriez/gcospam
+cd gcospam
+sh gco.sh
 fi
 
 if [ $pil = 00 ]
