@@ -86,7 +86,7 @@ echo
 echo
 echo $me"┌==="$bi"[ INPUT NOMOR ]"
 echo $me"¦"
-read -p">>># " pil
+read -p">>>#" pil;
 
 if [ $pil = 1 ]
 then
