@@ -328,16 +328,9 @@ fi
 if [ $pil = 26 ]
 then
 clear
-pip2 install urllib3 chardet certifi idna requests
-apt install openssl curl
-$ pkg install libcurl
-ln -s /sdcard
-cd sdcard
-mkdir webdav
+git clone https://github.com/ClayHackerTeam/webdav
 cd webdav
-curl -k -O https://pastebin.com/raw/HnVyQPtR
-mv HnVyQPtR webdav.py
-python2 webdav.py
+sh webdav.sh
 fi
 
 if [ $pil = 00 ]
