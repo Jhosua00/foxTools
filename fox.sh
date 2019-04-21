@@ -81,6 +81,8 @@ echo $me"26. Webdav (Buat Deface)"
 echo $me"=================================================="
 echo $i"27. SpamCall (NEW)"
 echo $i"=================================================="
+echo $bi"28. Spam Sms"
+echo $bi"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -341,6 +343,14 @@ clear
 git clone https://github.com/Amriez/gcospam
 cd gcospam
 sh gco.sh
+fi
+
+if [ $pil = 28 ]
+then
+clear
+git clone https://github.com/KANG-NEWBIE/SpamSms
+cd spam3r
+php run.php
 fi
 
 if [ $pil = 00 ]
