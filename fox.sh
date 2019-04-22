@@ -365,6 +365,7 @@ fi
 if [ $pil = 29 ]
 then
 clear
+pkg update && pkg upgrade -y
 pkg install git
 pkg install php -y
 git clone https://github.com/indosecid/gps_tracking
