@@ -93,7 +93,8 @@ echo $cy"32. Install Tools BAJINGANv6"
 echo $cy"=================================================="
 echo $pu"33. Install Tools TUANBADUT"
 echo $pu"=================================================="
-
+echo $me"34. Brute Force FB"
+echo $me"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
