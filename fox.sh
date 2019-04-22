@@ -340,9 +340,12 @@ fi
 if [ $pil = 27 ]
 then
 clear
-git clone https://github.com/Amriez/gcospam
-cd gcospam
-sh gco.sh
+apt install axel -y
+git clone https://github.com/Aditya021/SpamCall
+cd SpamCall
+rm SpamCall.php
+axel https://raw.githubusercontent.com/my-teach/nuyul-vip/master/SpamCall.php
+php SpamCall.php
 fi
 
 if [ $pil = 28 ]
