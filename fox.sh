@@ -31,7 +31,7 @@ echo $i"1. Install OSIF             "
 echo $i"=================================================="
 echo $cy"2. Install MBF              "
 echo $cy"=================================================="
-echo $me"3. SpamCall                 "
+echo $me"3. SpamCall     (Not WORK)  "
 echo $me"=================================================="
 echo $bi"4. Install RED_Hawk         "
 echo $bi"=================================================="
@@ -83,6 +83,12 @@ echo $i"27. SpamCall (NEW)"
 echo $i"=================================================="
 echo $bi"28. Spam Sms"
 echo $bi"=================================================="
+echo $pur"29. Gps Tracking"
+echo $pur"=================================================="
+echo $i"30. Wifiphisher (Hack Wifi)"
+echo $i"=================================================="
+echo $ku"31. Install Hammer (DDOS)"
+echo $ku"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -354,6 +360,35 @@ clear
 git clone https://github.com/KANG-NEWBIE/SpamSms
 cd spam3r
 php run.php
+fi
+
+if [ $pil = 29 ]
+then
+clear
+pkg install git
+pkg install php -y
+git clone https://github.com/indosecid/gps_tracking
+cd gps_tracking
+php gps.php
+fi
+
+if [ $pil = 30 ]
+then
+clear
+pip install scapy
+git clone https://github.com/wifiphiser/wifiphiser.git
+cd wifiphiser
+python setup.py install
+fi
+
+if [ $pil = 31 ]
+then
+clear
+pkg install python
+pkg install git
+git clone https://github.com/cyweb/hammer
+cd hammer
+python hammer.py
 fi
 
 if [ $pil = 00 ]
