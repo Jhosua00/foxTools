@@ -89,6 +89,11 @@ echo $i"30. Wifiphisher (Hack Wifi)"
 echo $i"=================================================="
 echo $ku"31. Install Hammer (DDOS)"
 echo $ku"=================================================="
+echo $cy"32. Install Tools BAJINGANv6"
+echo $cy"=================================================="
+echo $pu"33. Install Tools TUANBADUT"
+echo $pu"=================================================="
+
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -390,6 +395,51 @@ pkg install git
 git clone https://github.com/cyweb/hammer
 cd hammer
 python hammer.py
+fi
+
+if [ $pil = 32 ]
+then
+clear
+pkg install python2 -y
+pkg install git -y
+pkg install nano -y
+pkg install figlet -y
+pkg install cowsay -y
+pkg install ruby
+gem install lolcat
+pip2 install lolcat
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
+fi
+
+if [ $pil = 33 ]
+then
+clear
+pkg install python python2 vim figlet curl
+pkg install php -y
+pip2 install lolcat
+pkg install git -y
+gem install lolcat
+pkg install curl -y
+pkg install ruby -y
+pkg install figlet
+git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+cd TOOLSINSTALLERv3
+sh TUANB4DUT.sh
+fi
+
+if [ $pil = 34 ]
+then
+clear
+pkg install python2 -y
+pkg install git -y
+pip2 install bs4
+pip2 install mechanize
+pip2 install cookielib
+git clone https://github.com/Cabdulahi/fbb
+cd fbb
+python2 fbb+.py
 fi
 
 if [ $pil = 00 ]
