@@ -390,10 +390,11 @@ fi
 if [ $pil = 30 ]
 then
 clear
-pip install scapy
-git clone https://github.com/wifiphiser/wifiphiser.git
-cd wifiphiser
-python setup.py install
+pkg install git -y
+git clone https://github.com/esc0rtd3w/wifi-hacker
+cd wifi-hacker
+chmod +x wifi-hacker.sh
+wifi-hacker.sh
 fi
 
 if [ $pil = 31 ]
