@@ -103,6 +103,8 @@ echo $pu"37. Auto Followers IG"
 echo $pu"=================================================="
 echo $cy"38. Brute Force IG"
 echo $cy"=================================================="
+echo $pur"39. http Server Phising Facebook"
+echo $pur"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -499,6 +501,16 @@ pip2 install lolcat
 git clone https://github.com/DarkCurut08/DarkCurut08
 cd DarkCurut08
 sh Moreno77.sh
+fi
+
+if [ $pil = 39 ]
+then
+clear
+pkg install git
+git clone https://github.com/Cabdulahi/cadowx
+cd cadowx
+chmod +X *
+bash install.sh
 fi
 
 if [ $pil = 00 ]
