@@ -394,7 +394,7 @@ pkg install git -y
 git clone https://github.com/esc0rtd3w/wifi-hacker
 cd wifi-hacker
 chmod +x wifi-hacker.sh
-wifi-hacker.sh
+sh wifi-hacker.sh
 fi
 
 if [ $pil = 31 ]
