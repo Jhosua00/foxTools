@@ -95,12 +95,20 @@ echo $pu"33. Install Tools TUANBADUT"
 echo $pu"=================================================="
 echo $me"34. Brute Force FB"
 echo $me"=================================================="
+echo $i"35. SpamFb"
+echo $i"=================================================="
+echo $bi"36. Install SOCIAL BOX"
+echo $bi"=================================================="
+echo $pu"37. Auto Followers IG"
+echo $pu"=================================================="
+echo $cy"38. Brute Force IG"
+echo $cy"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
 echo $me"┌==="$bi"[ INPUT NOMOR ]"
 echo $me"¦"
-read -p">>>#" pil;
+read -p">>>" pil;
 
 if [ $pil = 1 ]
 then
@@ -441,6 +449,55 @@ pip2 install cookielib
 git clone https://github.com/Cabdulahi/fbb
 cd fbb
 python2 fbb+.py
+fi
+
+if [ $pil = 35 ]
+then
+clear
+git clone https://github.com/Cabdulahi/Fbspam
+cd Fbspam
+bash install.sh
+python2 Fbspam.py
+fi
+
+if [ $pil = 36 ]
+then
+clear
+pkg install git
+git clone https://github.com/TunisianEagles/SocialBox
+cd SocialBox
+chmod +x SocialBox.sh
+chmod +x install-sb.sh
+./install-sb.sh
+./SocialBox.sh
+fi
+
+if [ $pil = 37 ]
+then
+clear
+pkg install git
+git clone https://github.com/ikiganteng/bot-igeh
+cd bot-igeh
+unzip node_modules.zip
+npm install https://github.com/huttarichard/instagram-private-api
+npm audit fix
+ls
+fi
+
+if [ %pil = 38 ]
+then
+clear
+pkg install git -y
+pkg install php -y
+pkg install python2
+pkg install python2-dev
+pkg install php -y
+pkg install nano
+pkg install cowsay
+pip2 install lolcat
+git clone https://github.com/DarkCurut08/DarkCurut08
+cd DarkCurut08
+sh Moreno77.sh
 fi
 
 if [ $pil = 00 ]
