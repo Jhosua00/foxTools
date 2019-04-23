@@ -484,7 +484,7 @@ npm audit fix
 ls
 fi
 
-if [ %pil = 38 ]
+if [ $pil = 38 ]
 then
 clear
 pkg install git -y
