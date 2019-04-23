@@ -506,7 +506,8 @@ fi
 if [ $pil = 39 ]
 then
 clear
-pkg install git
+pkg install git -y
+pkg install opensah -y
 git clone https://github.com/Cabdulahi/cadowx
 cd cadowx
 chmod +X *
