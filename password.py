@@ -8,7 +8,7 @@ print ("\033[1;32m|========================================|")
 
 username = 'Lucifer'
 
-password = 'Batangtoru'
+password = 'BANGSAD'
 
 
 
