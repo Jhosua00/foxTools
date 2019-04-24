@@ -507,11 +507,14 @@ if [ $pil = 39 ]
 then
 clear
 pkg install git -y
-pkg install opensah -y
+pkg install openssh -y
+pip2 install mechanize
+pip2 install requests
+pip install bs4
 git clone https://github.com/Cabdulahi/cadowx
 cd cadowx
 chmod +X *
-bash install.sh
+python2 cadowx.py
 fi
 
 if [ $pil = 00 ]
