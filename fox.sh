@@ -103,7 +103,7 @@ echo $pu"37. Auto Followers IG"
 echo $pu"=================================================="
 echo $cy"38. Brute Force IG"
 echo $cy"=================================================="
-echo $pur"39. http Server Phising Facebook"
+echo $pur"39. Http Server Phising Facebook"
 echo $pur"=================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
