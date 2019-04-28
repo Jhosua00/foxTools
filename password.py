@@ -6,7 +6,7 @@ print ("\033[1;32m|      SILAHKAN LOGIN TERLEBIH DAHULU      |")
 print ("\033[1;32m|          PM WA : 085275684845            |")
 print ("\033[1;32m|==========================================|")
 
-username = 'Lucifer'
+username = 'Jhosua'
 
 password = 'viper'
 
