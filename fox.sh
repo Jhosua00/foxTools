@@ -32,14 +32,17 @@ echo "            00000 0  00000"
 echo "          00      0       00"
 echo "                    0"
 echo
-echo $i"["$bi"x"$i"]"$me"───────────────────────────────────────────"$i"["$bi"x"$i"]"
-echo $i" |"$cy"           LUCIFER TOOLS INSTALLER"$i"           |"
-echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR        :"$ku" JHOSUA SAUT MARULI    "$i"      |"
-echo $i" |"$pu" FACEBOOK      :"$ku" Jhosua Saut Maruli"$i"          |"
-echo $i" |"$pu" WA            :"$ku" 085275684845"$i"                |"
-echo $i" |"$pu" Contack Gmail :"$ku" jhosuasautmaruli@gmail.com"$i"  |"
-echo $i"["$bi"x"$i"]"$me"───────────────────────────────────────────"$i"["$bi"x"$i"]"
+
+echo "         /\_\     AUTHOR    : JHOSUA SAUT MARULI"
+echo "        /././_    WA        : 085275684845"
+echo "       /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
+echo "       \.\/..\.\  FACEBOOK  : Jhosua Saut Maruli"
+echo "     /\.\../\.\_\ TYPE      : INSTALLER"
+echo "     \.\/..\.\/_/ UPDATE    : 14 Mei 2019"
+echo "      \../\.\_\   YOUTUBE   : Lucifer Yt
+echo "       \/_/././   TELEGRAM  : https://t.me/luciferTrip"
+echo "         /././    STATUS    : ACTIVE"
+echo "         \/_      NO COPYRIGHT"
 echo
 echo $cy"LIST TOOL"
 echo
