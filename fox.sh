@@ -36,7 +36,7 @@ echo
 echo "    /\_\     AUTHOR    : JHOSUA SAUT MARULI"
 echo "   /././_    WA        : 085275684845"
 echo "  /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
-echo "  \.\/..\.\  VERSION   : 1.0
+echo "  \.\/..\.\  VERSION   : 1.0"
 echo "/\.\../\.\_\ TYPE      : INSTALLER"
 echo "\.\/..\.\/_/ UPDATE    : 14 Mei 2019"
 echo " \../\.\_\   YOUTUBE   : Lucifer Yt"
