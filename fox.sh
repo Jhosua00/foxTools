@@ -42,7 +42,7 @@ echo "  \.\/..\.\/_/ UPDATE    : 14 Mei 2019"
 echo "   \../\.\_\   YOUTUBE   : Lucifer Yt"
 echo "    \/_/././   TELEGRAM  : https://t.me/luciferTrip"
 echo "      /././    STATUS    : ACTIVE"
-echo "      \/_                  NO©OPYRIGHT"
+echo "      \/_/                        NO©OPYRIGHT"
 echo
 echo $cy"LIST TOOL"
 echo
@@ -125,6 +125,8 @@ echo $cy"38. Brute Force IG"
 echo $cy"==================================================="
 echo $pur"39. Http Server Phising Facebook"
 echo $pur"==================================================="
+echo $ku"40.Vitex ( Virus Txt Wa)
+echo $ku"==================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
