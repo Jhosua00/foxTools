@@ -33,16 +33,16 @@ echo "          00      0       00"
 echo "                    0"
 echo
 
-echo "         /\_\     AUTHOR    : JHOSUA SAUT MARULI"
-echo "        /././_    WA        : 085275684845"
-echo "       /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
-echo "       \.\/..\.\  FACEBOOK  : Jhosua Saut Maruli"
-echo "     /\.\../\.\_\ TYPE      : INSTALLER"
-echo "     \.\/..\.\/_/ UPDATE    : 14 Mei 2019"
-echo "      \../\.\_\   YOUTUBE   : Lucifer Yt
-echo "       \/_/././   TELEGRAM  : https://t.me/luciferTrip"
-echo "         /././    STATUS    : ACTIVE"
-echo "         \/_      NO COPYRIGHT"
+echo "      /\_\     AUTHOR    : JHOSUA SAUT MARULI"
+echo "     /././_    WA        : 085275684845"
+echo "    /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
+echo "    \.\/..\.\  FACEBOOK  : Jhosua Saut Maruli"
+echo "  /\.\../\.\_\ TYPE      : INSTALLER"
+echo "  \.\/..\.\/_/ UPDATE    : 14 Mei 2019"
+echo "   \../\.\_\   YOUTUBE   : Lucifer Yt"
+echo "    \/_/././   TELEGRAM  : https://t.me/luciferTrip"
+echo "      /././    STATUS    : ACTIVE"
+echo "      \/_      NO COPYRIGHT"
 echo
 echo $cy"LIST TOOL"
 echo
