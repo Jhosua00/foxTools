@@ -39,7 +39,7 @@ def main():
 
 
                 else:
-                        print "\033[1;32mPASSWORD ANDA SALAH Silahkan Pm 085275684845\033[1;32m"
+                        print "\033[31;1mPASSWORD ANDA SALAH Silahkan Pm 085275684845\033[1;32m"
 
                         print "MENCOBA LOGIN KEMBALI... \n"
 
@@ -49,7 +49,7 @@ def main():
 
         else:
 
-                print "\033[1;32mUSERNAME SALAH!!!\033[00m"
+                print "\033[31;1mUSERNAME SALAH Silahkan Pm 085275684845\033[00m"
 
                 print "MENCOBA LOGIN KEMBALI... \n"
 
