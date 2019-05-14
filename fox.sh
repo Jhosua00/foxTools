@@ -539,6 +539,13 @@ chmod +X *
 python2 cadowx.py
 fi
 
+if [ $pil = 40 ]
+then
+clear
+git clone https://github.com/Jhosua00/virtex
+sh virtex.sh
+fi
+
 if [ $pil = 00 ]
 then
 clear
