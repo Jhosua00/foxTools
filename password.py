@@ -39,9 +39,9 @@ def main():
 
 
                 else:
-                        print "\033[1;32mMaaf Masukkan password Anda salah... ? Silahkan Pm 085275684845\033[1;32m"
+                        print "\033[1;32mPASSWORD ANDA SALAH Silahkan Pm 085275684845\033[1;32m"
 
-                        print "Silahkan segera log-in kembali...!!\n"
+                        print "MENCOBA LOGIN KEMBALI... \n"
 
                         restart()
 
@@ -49,9 +49,9 @@ def main():
 
         else:
 
-                print "\033[1;32mMaaf Masukkan Username Anda salah... [?]\033[00m"
+                print "\033[1;32mUSERNAME SALAH!!!\033[00m"
 
-                print "Silahkan segera log-in kembali...!!\n"
+                print "MENCOBA LOGIN KEMBALI... \n"
 
                 restart()
 
