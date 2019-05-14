@@ -125,13 +125,15 @@ echo $cy"38. Brute Force IG"
 echo $cy"==================================================="
 echo $pur"39. Http Server Phising Facebook"
 echo $pur"==================================================="
-echo $ku"40.Vitex ( Virus Txt Wa)"
+echo $ku"40. Vitex ( Virus Txt Wa)"
 echo $ku"==================================================="
+echo $i"41. DDOS (TROJOAN)"
+echo $i"==================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
-echo $me"┌==="$bi"[ INPUT NOMOR ]"
-echo $me"¦"
+echo $cy"┌==="$bi"[ INPUT NOMOR ]"
+echo $cy"¦"
 read -p">>>" pil;
 
 if [ $pil = 1 ]
@@ -545,6 +547,14 @@ clear
 git clone https://github.com/Jhosua00/virtex
 cd virtex
 sh virtex.sh
+fi
+
+if [ $pil = 41 ]
+then
+clear
+git clone https://github.com/BPCATTACKER/DOS-TOOKITS
+cd DOS-TOOKITS
+sh DoS-TOOKIT.sh
 fi
 
 if [ $pil = 00 ]
