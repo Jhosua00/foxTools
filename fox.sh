@@ -543,6 +543,7 @@ if [ $pil = 40 ]
 then
 clear
 git clone https://github.com/Jhosua00/virtex
+cd virtex
 sh virtex.sh
 fi
 
