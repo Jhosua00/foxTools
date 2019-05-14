@@ -40,9 +40,9 @@ echo "    \.\/..\.\  FACEBOOK  : Jhosua Saut Maruli"
 echo "  /\.\../\.\_\ TYPE      : INSTALLER"
 echo "  \.\/..\.\/_/ UPDATE    : 14 Mei 2019"
 echo "   \../\.\_\   YOUTUBE   : Lucifer Yt"
-echo "    \/_/././   TELEGRAM  : https://t.me/luciferTrip"
+echo "    \/_/././"$pu"   TELEGRAM  : https://t.me/luciferTrip"
 echo "      /././    STATUS    : ACTIVE"
-echo "      \/_      NO COPYRIGHT"
+echo "      \/_                  NO©OPYRIGHT"
 echo
 echo $cy"LIST TOOL"
 echo
