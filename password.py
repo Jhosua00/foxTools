@@ -51,7 +51,7 @@ def main():
 
                 print "\033[31;1mUSERNAME SALAH Silahkan Pm 085275684845\033[00m"
 
-                print "MENCOBA LOGIN KEMBALI... \n"
+                print "\033[1;32mMENCOBA LOGIN KEMBALI... \n"
 
                 restart()
 
