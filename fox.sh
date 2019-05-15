@@ -643,6 +643,7 @@ if [ $pil = 50 ]
 then
 clear
 git clone https://github.com/b3-v3r/Hunner.git
+cd Hunner
 chmod +x hunner.py
 python2 hunner.py
 fi
