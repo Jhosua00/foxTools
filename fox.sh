@@ -129,7 +129,7 @@ echo $ku"40. Vitex ( Virus Txt Wa)"
 echo $ku"==================================================="
 echo $i"41. DDOS (TROJOAN)"
 echo $i"==================================================="
-echo $pur"42. Hack Apk (Decompile)
+echo $pur"42. Hack Apk (Decompile)"
 echo $pur"==================================================="
 echo $me"43. Install A-Rat"
 echo $me"==================================================="
