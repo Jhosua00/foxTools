@@ -38,11 +38,11 @@ echo "   /././_    WA        : 085275684845"
 echo "  /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
 echo "  \.\/..\.\  VERSION   : 1.0"
 echo "/\.\../\.\_\ TYPE      : INSTALLER"
-echo "\.\/..\.\/_/ UPDATE    : 14 Mei 2019"
+echo "\.\/..\.\/_/ UPDATE    : 15 Mei 2019"
 echo " \../\.\_\   YOUTUBE   : Lucifer Yt"
 echo "  \/_/././   TELEGRAM  : https://t.me/luciferTrip"
 echo "    /././    STATUS    : ACTIVE"
-echo "    \/_/     TOOL      : 40"
+echo "    \/_/     TOOL      : 50"
 echo
 echo $cy"LIST TOOL"
 echo
@@ -129,6 +129,24 @@ echo $ku"40. Vitex ( Virus Txt Wa)"
 echo $ku"==================================================="
 echo $i"41. DDOS (TROJOAN)"
 echo $i"==================================================="
+echo $pur"42. Hack Apk (Decompile)
+echo $pur"==================================================="
+echo $me"43. Install A-Rat"
+echo $me"==================================================="
+echo $i"44. Spam SMS (GRAB)"
+echo $i"==================================================="
+echo $pu"45. Fake Call"
+echo $pu"==================================================="
+echo $bi"46. Spam Gmail
+echo $bi"==================================================="
+echo $cy"47. Sadap Camera"
+echo $cy"==================================================="
+echo $ku"48. Tools Facebook"
+echo $ku"==================================================="
+echo $me"49. Wordlist Creator"
+echo $me"==================================================="
+echo $pur"50. Install Hunner Framework"
+echo $pur"==================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -555,6 +573,78 @@ clear
 git clone https://github.com/BPCATTACKER/DOS-TOOKITS
 cd DOS-TOOKITS
 sh DoS-TOOKIT.sh
+fi
+
+if [ $pil = 42 ]
+then
+clear
+git clone https://github.com/adi1090x/hackapk
+cd hackapk
+bash hackapk
+fi
+
+if [ $pil = 43 ]
+then
+clear
+git clone https://github.com/Xi4u7/A-Rat.git
+cd A-Rat
+python2 A-Rat.py
+fi
+
+if [ $pil = 44 ]
+then
+clear
+git clone https://github.com/GUNAWAN18ID/spammer-sms
+cd spammer-sms
+python2 spam.py
+fi
+
+if [ $pil = 45 ]
+then
+clear
+git clone https://github.com/siputra12/fakecall
+cd fakecall
+php call.php
+fi
+
+if [ $pil = 46 ]
+then
+clear
+git clone https://github.com/revan-ar/mail-spammer
+cd mail-spammer
+php mail.php
+fi
+
+if [ $pil = 47 ]
+then
+clear
+git clone https://github.com/thelinuxchoice/saycheese
+cd saycheese
+bash saycheese.sh
+fi
+
+if [ $pil = 48 ]
+then
+clear
+git clone https://github.com/LOoLzeC/F-HUNTER
+cd F-HUNTER
+python2 fhunter.py
+fi
+
+if [ $pil = 49 ]
+then
+clear
+git clone https://github.com/Cabdulahi/wordlist
+cd wordlist
+python2 word.py
+fi
+
+if [ $pil = 50 ]
+then
+clear
+git clone https://github.com/b3-v3r/Hunner.git
+chmod +x hunner.py
+python2 hunner.py
 fi
 
 if [ $pil = 00 ]
