@@ -55,7 +55,7 @@ sleep 1
 echo "    \/_/     TOOL      : 50"
 sleep 1
 echo
-echo $cy"LIST TOOL"
+echo $cy"====DAFTAR TOOLS====
 echo
 sleep 1
 echo "==================================================="
@@ -71,22 +71,18 @@ echo $pur"5. DDOS                     "
 echo $pur"==================================================="
 echo $ku"6. Bruteforce Fb ( root )   "
 echo $ku"===================================================" 
-sleep 1
 echo $bi"7. Yahoo Cloning Facebook"
 echo $bi"==================================================="
 echo $ku"8. Profile Guard Facebook"
 echo $ku"==================================================="
-sleep 1
 echo $cy"9. Report Facebook Work"
 echo $cy"==================================================="
 echo $i"10. Install MetasPloit"
-sleep 1
 echo $i"==================================================="
 echo $me"11. Buat Virus Android       "
 echo $me"==================================================="
 echo $pu"12. Install Sql Map          "
 echo $pu"==================================================="
-sleep 1
 echo $bi"13. AUTOLIKE FACEBOOK        "
 echo $bi"==================================================="
 echo $pur"14. PHISING FACEBOOK 1       "
