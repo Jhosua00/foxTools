@@ -46,20 +46,34 @@ echo "    \/_/     TOOL      : 50"
 echo
 echo $cy"LIST TOOL"
 echo
+sleep 1
 echo "==================================================="
 echo $i"1. Install OSIF             "
+sleep 1
 echo $i"==================================================="
+sleep 1
 echo $cy"2. Install MBF              "
+sleep 1
 echo $cy"==================================================="
+sleep 1
 echo $me"3. SpamCall     (Not WORK)  "
+sleep 1
 echo $me"==================================================="
+sleep 1
 echo $bi"4. Install RED_Hawk         "
+sleep 1
 echo $bi"==================================================="
+sleep 1
 echo $pur"5. DDOS                     "
+sleep 1
 echo $pur"==================================================="
+sleep 1
 echo $ku"6. Bruteforce Fb ( root )   "
+sleep 1
 echo $ku"===================================================" 
+sleep 1
 echo $bi"7. Yahoo Cloning Facebook"
+sleep 1
 echo $bi"==================================================="
 echo $ku"8. Profile Guard Facebook"
 echo $ku"==================================================="
