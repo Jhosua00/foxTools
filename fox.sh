@@ -33,58 +33,60 @@ echo $me"          00      0       00"
 echo $me"                    0"
 echo
 
+sleep 1
 echo "    /\_\     AUTHOR    : JHOSUA SAUT MARULI"
+sleep 1
 echo "   /././_    WA        : 085275684845"
+sleep 1
 echo "  /./_/\.\   GMAIL     : jhosuasautmaruli666@gmail.com"
+sleep 1
 echo "  \.\/..\.\  VERSION   : 1.0"
+sleep 1
 echo "/\.\../\.\_\ TYPE      : INSTALLER"
+sleep 1
 echo "\.\/..\.\/_/ UPDATE    : 15 Mei 2019"
+sleep 1
 echo " \../\.\_\   YOUTUBE   : Mr.F4K3 YT"
+sleep 1
 echo "  \/_/././   TELEGRAM  : https://t.me/mrf4k3"
+sleep 1
 echo "    /././    STATUS    : ACTIVE"
+sleep 1
 echo "    \/_/     TOOL      : 50"
+sleep 1
 echo
 echo $cy"LIST TOOL"
 echo
 sleep 1
 echo "==================================================="
 echo $i"1. Install OSIF             "
-sleep 1
 echo $i"==================================================="
-sleep 1
 echo $cy"2. Install MBF              "
-sleep 1
 echo $cy"==================================================="
-sleep 1
 echo $me"3. SpamCall     (Not WORK)  "
-sleep 1
 echo $me"==================================================="
-sleep 1
 echo $bi"4. Install RED_Hawk         "
-sleep 1
 echo $bi"==================================================="
-sleep 1
 echo $pur"5. DDOS                     "
-sleep 1
 echo $pur"==================================================="
-sleep 1
 echo $ku"6. Bruteforce Fb ( root )   "
-sleep 1
 echo $ku"===================================================" 
 sleep 1
 echo $bi"7. Yahoo Cloning Facebook"
-sleep 1
 echo $bi"==================================================="
 echo $ku"8. Profile Guard Facebook"
 echo $ku"==================================================="
+sleep 1
 echo $cy"9. Report Facebook Work"
 echo $cy"==================================================="
 echo $i"10. Install MetasPloit"
+sleep 1
 echo $i"==================================================="
 echo $me"11. Buat Virus Android       "
 echo $me"==================================================="
 echo $pu"12. Install Sql Map          "
 echo $pu"==================================================="
+sleep 1
 echo $bi"13. AUTOLIKE FACEBOOK        "
 echo $bi"==================================================="
 echo $pur"14. PHISING FACEBOOK 1       "
