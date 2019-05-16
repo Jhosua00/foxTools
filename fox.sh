@@ -55,7 +55,7 @@ sleep 1
 echo "    \/_/     TOOL      : 50"
 sleep 1
 echo
-echo $cy"====DAFTAR TOOLS====
+echo $cy"====DAFTAR TOOLS===="
 echo
 sleep 1
 echo "==================================================="
