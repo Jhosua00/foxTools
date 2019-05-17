@@ -8,10 +8,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 # Recode ajh mmnx
-echo
-echo
-clear
-echo
+
 echo $me"MAAF TOOLS INI TIDAK DAPAT DI INSTALL...."
 echo $me"UNTUK MENGINSTALL TOOLS INI DI KENAKAN TARIF 10k"
 echo $i"JIKA ANDA MAU PREMIUM CUKUP BAYAR 20k"
@@ -24,19 +21,17 @@ echo $cy"APAKAH ANDA BERMINAT MEMBELI TOOLSNYA?"
 echo $i"[1] YA"
 echo $me"[2]TIDAK"
 
-read -p "JAWAB" pil; 
+read -p "JAWAB :" pil; 
 
 if [ $pil = 1 ]
 then
 clear
 echo $i"TERIMAH KASIH TELAH MEMBELI TOOLS KAMI"
-echo
 echo $i"UNTUK PEMBAYARAN SILAHKAN HUB :"
 echo $cy"============================"
 echo $cy"WA   : 085275684845"
 echo $cy"FB   : Jhosua Saut Maruli"
 echo $cy"============================"
-sleep
 echo $i"SILAHKAN DI HUBUNGI"
 fi
 
@@ -45,15 +40,8 @@ then
 clear
 echo $me"OWH....:-("
 echo $me"KAMI MENERIMA KEPUTUSAN ANDA :-)"
-echo
 echo $me"MUNGKIN LAIN WAKTU KAMU MAU MEMBELI TOOLS SAYA"
 echo $i"KAMI MENERIMA KEPUTUSAN ANDA"
-echo
-echo
-echo
 echo $i"KAMI AKAN MENINGKATKAN TOOLS KAMI :-)"
 echo $i"TERIMAH KASIH :-)"
-echo 
-echo
-echo
 fi
