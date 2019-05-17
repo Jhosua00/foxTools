@@ -26,9 +26,9 @@ echo "KENAPA BAYAR? "
 echo $cy"KARENA NULIS NYA CAPEK BRO"
 sleep 1
 echo
-echo $cy"APAKAH ANDA BERMINAT MEMBELI TOOLSNYA? 
-echo $i"[A] YA"
-echo $me"[B]TIDAK"
+echo $cy"APAKAH ANDA BERMINAT MEMBELI TOOLSNYA?"
+echo $i"[1] YA"
+echo $me"[2]TIDAK"
 
 read -p "JAWAB" pil; 
 
@@ -40,7 +40,7 @@ sleep 1
 echo $i"UNTUK PEMBAYARAN SILAHKAN HUB :"
 echo $cy"============================"
 echo $cy"WA   : 085275684845"
-echo $cy"FB     : Jhosua Saut Maruli"
+echo $cy"FB   : Jhosua Saut Maruli"
 echo $cy"============================"
 sleep 1
 echo $i"SILAHKAN DI HUBUNGI"
