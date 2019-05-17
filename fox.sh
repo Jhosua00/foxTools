@@ -7,9 +7,13 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
+# Recode ajh mmnx
 echo
+
 echo
 clear
+echo
+sleep 1
 echo $me"MAAF TOOLS INI TIDAK DAPAT DI INSTALL...."
 sleep 1
 echo $me"UNTUK MENGINSTALL TOOLS INI DI KENAKAN TARIF 10k"
