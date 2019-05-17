@@ -14,6 +14,12 @@ python2 password.py
 echo
 clear
 echo
+sleep 1
+echo "NEW!!!"
+sleep 1
+echo "MULTI BRUTE FACEBOOK NO CHECK POINT"
+sleep 1
+clear
 echo $me"                 0"
 echo $me"                00"
 echo $me"               0000"
@@ -159,6 +165,8 @@ echo $me"49. Wordlist Creator"
 echo $me"==================================================="
 echo $pur"50. Install Hunner Framework"
 echo $pur"==================================================="
+echo $i"51. Multi Brute Facebook New (NO CHECKPOINT)"
+echo $i"==================================================="
 echo $cy"00. KELUAR/EXIT PROGRAM      "
 echo
 echo
@@ -658,6 +666,14 @@ git clone https://github.com/b3-v3r/Hunner.git
 cd Hunner
 chmod +x hunner.py
 python2 hunner.py
+fi
+
+if [ $pil = 51 ]
+then
+clear
+git clone https://github.com/Jhosua00/multibrutefb
+cd multibrutefb
+python2 lucifer.py
 fi
 
 if [ $pil = 00 ]
