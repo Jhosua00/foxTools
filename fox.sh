@@ -30,9 +30,9 @@ echo $cy"APAKAH ANDA BERMINAT MEMBELI TOOLSNYA?
 echo $i"[A] YA"
 echo $me"[B]TIDAK"
 
-echo read -p "JAWAB" pil; 
+read -p "JAWAB" pil; 
 
-if [ $pil = A ]
+if [ $pil = 1 ]
 then
 clear
 echo $i"TERIMAH KASIH TELAH MEMBELI TOOLS KAMI"
@@ -46,7 +46,7 @@ sleep 1
 echo $i"SILAHKAN DI HUBUNGI"
 fi
 
-if [ $pil = B ]
+if [ $pil = 2 ]
 then
 clear
 echo $me"OWH....:-("
