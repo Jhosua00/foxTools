@@ -10,21 +10,21 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo $me"MAAF TOOLS INI TIDAK DAPAT DI INSTALL...."
-sleep
+echo
 echo $me"UNTUK MENGINSTALL TOOLS INI DI KENAKAN TARIF 10k"
-sleep
+echo
 echo $i"JIKA ANDA MAU PREMIUM CUKUP BAYAR 20k"
-sleep
+echo
 echo $i"JIKA PREMIUM ANDA AKAN DAPAT UPDATE TOOLS PEMANET"
-sleep
+echo
 echo $i"JIKA TRIAL MAU TRIAL ANDA AKAN DAPAT UPDATE TOOLS HANYA 2 MINGGU"
-sleep
+echo
 echo $i"UPDATE SCRIPT DILAKUKAN SETIAP 1 MINGGU SEKALI"
-sleep
+echo
 echo
 echo "KENAPA BAYAR? "
 echo $cy"KARENA NULIS NYA CAPEK BRO"
-sleep
+echo
 echo
 echo $cy"APAKAH ANDA BERMINAT MEMBELI TOOLSNYA?"
 echo $i"[1] YA"
@@ -36,7 +36,7 @@ if [ $pil = 1 ]
 then
 clear
 echo $i"TERIMAH KASIH TELAH MEMBELI TOOLS KAMI"
-sleep
+echo
 echo $i"UNTUK PEMBAYARAN SILAHKAN HUB :"
 echo $cy"============================"
 echo $cy"WA   : 085275684845"
@@ -51,15 +51,15 @@ then
 clear
 echo $me"OWH....:-("
 echo $me"KAMI MENERIMA KEPUTUSAN ANDA :-)"
-sleep
+echo
 echo $me"MUNGKIN LAIN WAKTU KAMU MAU MEMBELI TOOLS SAYA"
 echo $i"KAMI MENERIMA KEPUTUSAN ANDA"
-sleep
 echo
-sleep
+echo
+echo
 echo $i"KAMI AKAN MENINGKATKAN TOOLS KAMI :-)"
 echo $i"TERIMAH KASIH :-)"
 echo 
-sleep
+echo
 echo
 fi
