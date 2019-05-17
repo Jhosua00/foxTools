@@ -9,6 +9,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 echo
+clear
 echo $me"MAAF TOOLS INI TIDAK DAPAT DI INSTALL...."
 echo
 echo $me"UNTUK MENGINSTALL TOOLS INI DI KENAKAN TARIF 10k"
